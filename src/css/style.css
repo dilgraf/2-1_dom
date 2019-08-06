@@ -1,0 +1,15 @@
+.gameField {
+    border-collapse: collapse;
+}
+.goblin {
+    background-image: url(/src/pic/goblin.png);
+    width: 150px;
+    height: 150px;
+}
+td {
+    border: 5px solid rgb(3, 88, 41);
+    background-color: rgb(1, 66, 30);
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
